@@ -1,0 +1,16 @@
+ body{
+   background-color: red;
+}
+
+ h1{
+ color: brown;
+
+}
+p { 
+  color: green;
+ 
+ }
+.half-width{
+     width: 50%;
+     float: left;
+}
